@@ -1,3 +1,4 @@
+'''Edited from https://github.com/allegroai/clearml/blob/master/examples/frameworks/pytorch/pytorch_mnist.py'''
 from __future__ import print_function
 
 import argparse
